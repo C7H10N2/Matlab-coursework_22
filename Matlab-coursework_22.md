@@ -1,10 +1,3 @@
----
-attachments: [Clipboard_2022-12-20-14-03-20.png, Clipboard_2022-12-27-18-26-58.png, Clipboard_2022-12-29-02-13-39.png]
-title: MATLAB在高等数学以及线性代数中的运用
-created: '2022-12-19T08:43:02.075Z'
-modified: '2023-01-02T08:33:44.292Z'
----
-
 # MATLAB在高等数学以及线性代数中的运用
 ## 线性代数中的应用
 ### 行列式求值
@@ -1149,5 +1142,6 @@ MATLAB可以增强个人的计算能力和编程技能，使其在各种数学�
 
 本次作业作业源码公开在
 
-[![Github stats](https://github-readme-stats.vercel.app/api/pin?username=C7H10N2&repo=Matlab-coursework_f22)](https://github.com/C7H10N2/\Matlab-coursework_f22)
+[![Github stats](https://github-readme-stats.vercel.app/api/pin?username=C7H10N2&repo=Matlab-coursework_22)](https://github.com/C7H10N2/Matlab-coursework_22)
 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=C7H10N2)](https://github.com/C7H10N2/)
